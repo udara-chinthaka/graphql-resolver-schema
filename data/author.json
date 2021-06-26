@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "authorName": "William Shakespeare",
+        "authorCountry": "United Kindom",
+        "language": "English",
+        "book": [
+            {
+                "id": 1,
+                "name": "As You Like It",
+                "isbn": 686523,
+                "price": 56
+            },
+            {
+                "id": 1,
+                "name": "Lover's Complaint",
+                "isbn": 563289314,
+                "price": 15
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "authorName": "Somerset Maugham",
+        "authorCountry": "UK / US",
+        "language": "English",
+        "book": [
+            {
+                "id": 1,
+                "name": "The magician",
+                "isbn": 686523,
+                "price": 50
+            },
+            {
+                "id": 1,
+                "name": "The painted veil",
+                "isbn": 563289314,
+                "price": 25
+            }
+        ]
+    }
+]

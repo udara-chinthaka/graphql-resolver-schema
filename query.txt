@@ -1,0 +1,21 @@
+query{
+  findAuthorById(id:1){
+  id
+    authorName
+    book{
+      name
+    }
+  }
+}
+
+------------------
+
+query{
+  author(language:"English"){
+  id
+  authorName
+    book{
+      name
+    }
+  }
+}
